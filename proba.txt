@@ -1,0 +1,3 @@
+g prvi_red_teksta 2543
+r crveni_red 98
+b poslednji_red_sa_vise_cekanja 10992
